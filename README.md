@@ -27,6 +27,7 @@ APEX docs &amp; tutorials
 				- (打包的应用) Quick Tour Packaged Apps: https://www.youtube.com/watch?v=KP5kyNFEulg
 				- (应用构建器) Quick Tour App Builder: https://www.youtube.com/watch?v=q_GfZFio9qg
 				- (SQL 工作室)Quick Tour SQL Workshop: https://www.youtube.com/watch?v=bUXpKKMSX1k
+				- (小组开发) Quick Tour Team Development: https://www.youtube.com/watch?v=LyJv-feGOhQ
 			2) 2019年Jenny曾在OOW Andy Session中演示 (数据来源自Airbnb: http://insideairbnb.com/get-the-data.html  的San Francisco, California, United States, listings.csv)
 				- https://youtu.be/t21SRjtLjzI
 			3) APEX 快速开发针对表数据的增删改查 及 数据的批量导入 功能：
