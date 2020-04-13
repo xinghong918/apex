@@ -22,8 +22,7 @@ APEX docs &amp; tutorials
 		- 成功案例：https://apex.oracle.com/zh-cn/solutions/success-stories/
 
 	- 3) 视频：
-			1) **中文培训视频**：
-				
+			1) **中文培训视频**：https://v.youku.com/v_show/id_XNDYyNzEzMDg5Mg==.html?spm=a2hzp.8244740.0.0&f=52427242
 			2) 官方：https://apex.oracle.com/zh-cn/learn/videos/
 				- (引导式浏览) APEX 19 Quick Tour: https://www.youtube.com/watch?v=CoACbMBokak
 				- (打包的应用) Quick Tour Packaged Apps: https://www.youtube.com/watch?v=KP5kyNFEulg
