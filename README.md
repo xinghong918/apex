@@ -22,15 +22,18 @@ APEX docs &amp; tutorials
 		- 成功案例：https://apex.oracle.com/zh-cn/solutions/success-stories/
 
 	- 3) 视频：
-			1) 官方：https://apex.oracle.com/zh-cn/learn/videos/
+			1) **中文培训视频**：
+				链接:https://pan.baidu.com/s/14gmmSWpxKSl5Zw3aMfdufQ  
+				密码:twt0
+			2) 官方：https://apex.oracle.com/zh-cn/learn/videos/
 				- (引导式浏览) APEX 19 Quick Tour: https://www.youtube.com/watch?v=CoACbMBokak
 				- (打包的应用) Quick Tour Packaged Apps: https://www.youtube.com/watch?v=KP5kyNFEulg
 				- (应用构建器) Quick Tour App Builder: https://www.youtube.com/watch?v=q_GfZFio9qg
 				- (SQL 工作室)Quick Tour SQL Workshop: https://www.youtube.com/watch?v=bUXpKKMSX1k
 				- (小组开发) Quick Tour Team Development: https://www.youtube.com/watch?v=LyJv-feGOhQ
-			2) 2019年Jenny曾在OOW Andy Session中演示 (数据来源自Airbnb: http://insideairbnb.com/get-the-data.html  的San Francisco, California, United States, listings.csv)
+			3) 2019年Jenny曾在OOW Andy Session中演示 (数据来源自Airbnb: http://insideairbnb.com/get-the-data.html  的San Francisco, California, United States, listings.csv)
 				- https://youtu.be/t21SRjtLjzI
-			3) APEX 快速开发针对表数据的增删改查 及 数据的批量导入 功能：
+			4) APEX 快速开发针对表数据的增删改查 及 数据的批量导入 功能：
 				- Data Loading On Apex Tutorial： https://www.youtube.com/watch?v=ZS1hkKsZy5w
 
 	- 4) 其它链接： 
