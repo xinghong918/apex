@@ -23,8 +23,7 @@ APEX docs &amp; tutorials
 
 	- 3) 视频：
 			1) **中文培训视频**：
-				链接:https://pan.baidu.com/s/14gmmSWpxKSl5Zw3aMfdufQ  
-				密码:twt0
+				
 			2) 官方：https://apex.oracle.com/zh-cn/learn/videos/
 				- (引导式浏览) APEX 19 Quick Tour: https://www.youtube.com/watch?v=CoACbMBokak
 				- (打包的应用) Quick Tour Packaged Apps: https://www.youtube.com/watch?v=KP5kyNFEulg
