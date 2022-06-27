@@ -1,5 +1,5 @@
 # APEX
-APEX docs &amp; tutorials
+APEX docs & tutorials
 
 1. APEX开发试用公共环境(不能用作正式环境，仅供开发人员探索试用)
 	https://apex.oracle.com
@@ -37,7 +37,7 @@ APEX docs &amp; tutorials
 	- 4) 其它链接： 
 		- https://apex.oracle.com/shortcuts
 		- (无代码) APEX开发的商用软件：https://apex.oracle.com/pls/apex/f?p=411:5:::NO:::
-		- (无代码) APEX开发的互联网应用：https://apex.oracle.com/pls/apex/f?p=411:9:::NO::: 
+		- (无代码) APEX开发的互联网应用：https://apex.oracle.com/pls/apex/f?p=411:9:::NO:::
 		- (无代码) Build with APEX: https://www.builtwithapex.com/ords/f?p=BWA:LIST
 
 
