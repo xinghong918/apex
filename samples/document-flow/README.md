@@ -10,7 +10,15 @@ Init Steps
 1. Learn APEX Signature [*How to use*](https://github.com/Dani3lSun/apex-plugin-apexsignature#how-to-use) section
 1. Customize PL/SQL code for *Save to DB using PL/SQL* and *Get files from default PL/SQL code* purposes
     1. Create table to persist the signature
+    
     ```
+    create sequence SIGNATURE_seq
+        start with 1
+        increment by 1
+        nomaxvalue
+        minvalue 1
+        nocycle;
+        
     CREATE TABLE docu.signature (
     file_name VARCHAR2(100),
     mime_type VARCHAR2(100),
