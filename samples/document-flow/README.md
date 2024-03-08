@@ -1,10 +1,6 @@
 # Document Flow
 
 ## Prerequisite
-Supporting OCI services
-- Oracle Content and Management Cloud
-- Oracle APEX on Autonomous Database
-
 Init Steps
 1. Import plug-in [**Oracle APEX Region Plugin - APEX Signature**](https://github.com/Dani3lSun/apex-plugin-apexsignature)
 1. Learn APEX Signature [*How to use*](https://github.com/Dani3lSun/apex-plugin-apexsignature#how-to-use) section
